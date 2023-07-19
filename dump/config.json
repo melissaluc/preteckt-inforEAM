@@ -1,0 +1,43 @@
+{
+
+
+    "URL":{
+        "accel-events": "https://dash.preteckt.us/api/accel-events/",
+        "alerts": "https://dash.preteckt.us/api/alerts/",
+        "alertoption": "https://dash.preteckt.us/api/alertoption/",
+        "assets": "https://dash.preteckt.us/api/assets/",
+        "assetgroups": "https://dash.preteckt.us/api/assetgroups/",
+        "engines": "https://dash.preteckt.us/api/engines/",
+        "failures": "https://dash.preteckt.us/api/failures/",
+        "failure-types": "https://dash.preteckt.us/api/failure-types/",
+        "fleet": "https://dash.preteckt.us/api/fleet/",
+        "faultcodes": "https://dash.preteckt.us/api/faultcodes/",
+        "fault-history": "https://dash.preteckt.us/api/fault-history/",
+        "geotab-databases": "https://dash.preteckt.us/api/geotab-databases/",
+        "gtfs-feeds": "https://dash.preteckt.us/api/gtfs-feeds/",
+        "ml-models": "https://dash.preteckt.us/api/ml-models/",
+        "notes": "https://dash.preteckt.us/api/notes/",
+        "regenhistory": "https://dash.preteckt.us/api/regenhistory/",
+        "repairplans": "https://dash.preteckt.us/api/repairplans/",
+        "repairplan-comments": "https://dash.preteckt.us/api/repairplan-comments/",
+        "sensor-groups": "https://dash.preteckt.us/api/sensor-groups/",
+        "sensormapping-sensors": "https://dash.preteckt.us/api/sensormapping-sensors/",
+        "sensormapping-networks": "https://dash.preteckt.us/api/sensormapping-networks/",
+        "sensormapping-metadata": "https://dash.preteckt.us/api/sensormapping-metadata/",
+        "spns": "https://dash.preteckt.us/api/spns/",
+        "tires": "https://dash.preteckt.us/api/tires/",
+        "tire-history": "https://dash.preteckt.us/api/tire-history/",
+        "tpms": "https://dash.preteckt.us/api/tpms/",
+        "units": "https://dash.preteckt.us/api/units/",
+        "users": "https://dash.preteckt.us/api/users/",
+        "work-orders": "https://dash.preteckt.us/api/work-orders/",
+        "sensors": "https://dash.preteckt.us/api/rtdv/sensors/",
+        "spns-fmis": "https://dash.preteckt.us/api/rtdv/spns-fmis/",
+        "can-data": "https://dash.preteckt.us/api/rtdv/can-data/",
+        "chart-data": "https://dash.preteckt.us/api/rtdv/chart-data/",
+        "rtdv-bookmarks": "https://dash.preteckt.us/api/rtdv/rtdv-bookmarks/",
+        "gps": "https://dash.preteckt.us/api/rtdv/gps/",
+        "accelerometer": "https://dash.preteckt.us/api/rtdv/accelerometer/"
+    }
+
+}
