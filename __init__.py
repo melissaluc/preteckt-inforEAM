@@ -8,10 +8,10 @@ import logging
 import numpy as np
 
 
-# logging.basicConfig(format='%(asctime)s %(levelname)-8s [%(pathname)s:%(lineno)d %(funcName)s %(message)s',
-#                     datefmt='%Y-%m-%dT%H:%M:%S',
-#                     level=logging.DEBUG,
-#                     handlers=[logging.FileHandler('repairplan_gen_log.log'),logging.StreamHandler()])
+logging.basicConfig(format='%(asctime)s %(levelname)-8s [%(pathname)s:%(lineno)d %(funcName)s %(message)s',
+                    datefmt='%Y-%m-%dT%H:%M:%S',
+                    level=logging.DEBUG,
+                    handlers=[logging.FileHandler('repairplan_gen_log.log'),logging.StreamHandler()])
 
 
 

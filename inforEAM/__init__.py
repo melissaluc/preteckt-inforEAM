@@ -1199,7 +1199,7 @@ def addRepairPlan(REPAIRPLAN, TAGS, ALERT_TYPE,SHORT_DESC,LONG_DESC):
     REPAIRPLAN_NO = REPAIRPLAN.get('id',None)
     UPDATED_DATE=REPAIRPLAN.get('updated_on',None)
     CREATED_DATE=REPAIRPLAN.get('created_on',None)
-    REPAIR_PLAN_TXT=f"RepairPlan#{REPAIRPLAN_NO}\n{SHORT_DESC};{LONG_DESC}\n{REPAIRPLAN.get('raw_content',None)}"
+    REPAIR_PLAN_TXT=f"RepairPlan#{REPAIRPLAN_NO}\n{SHORT_DESC};{LONG_DESC}\n{REPAIRPLAN.get('raw_content',"")}"
     BUS_NO=REPAIRPLAN.get('asset_label',None)
    
 
